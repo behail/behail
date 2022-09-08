@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @behail
-- 👀 I’m interested in web development with react framwork
-- 🌱 I’m currently learning Next Js
+- 👀 I’m interested in web development with react and Vue JS framwork
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me via email hbehailu1234@gmail.com
+- 📫 How to reach me via email angbehailu@gmail.com
 
 <!---
 behail/behail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
