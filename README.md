@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behail
+- 👋 Hi, I’m Behail Mesganaw
 - 👀 I’m interested in web development with react and Vue JS framwork
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me via email angbehailu@gmail.com
