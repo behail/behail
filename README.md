@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behail Mesganaw
-- 👀 I’m interested in web development with MERN
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in web development with MERN and mobile app development with Flutter
+- 💞️ I’m looking to collaborate on Web and mobile app Development
 - 📫 How to reach me via email angbehailu@gmail.com
 
 <!---
